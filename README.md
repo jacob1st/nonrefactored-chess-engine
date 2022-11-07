@@ -1,2 +1,2 @@
-# nonrefractored-chess-engine
+# nonrefactored-chess-engine
 Unfinished chess engine in pygame
