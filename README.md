@@ -8,4 +8,4 @@ Movement, captures, checks, en passant, and castling
 ![Chess_features](./chess_features.gif)
 
 
-(The Code uploaded is not yet up-to-date with the gif)
+(The code uploaded is not yet up-to-date with the gif. I've been busy with other projects, but when I get around to it I'll post a more finished version.)
